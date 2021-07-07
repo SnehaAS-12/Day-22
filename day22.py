@@ -2,7 +2,7 @@
 from PIL import Image
 d=Image.open("/content/11.jpg")
 import matplotlib.pyplot as plt
-plt.imshow(a)
+plt.imshow(d)
 
 
 #Merge two pdf files using python script
